@@ -1,5 +1,7 @@
 # sast-rule-evals
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Vulnetix/sast-rule-evals)
+
 Evaluation test cases for [Vulnetix CLI](https://github.com/Vulnetix/cli) built-in SAST rules.
 
 Each directory contains a minimal code fixture designed to trigger exactly one SAST rule. Run the scanner against any fixture to verify the rule fires correctly:
